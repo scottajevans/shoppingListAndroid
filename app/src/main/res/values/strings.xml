@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="title_activity_add">Add Items</string>
+
+    <string name="name">Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="cost">Cost</string>
+    <string name="got">Got</string>
+    <string name="total_cost_static">Total Cost: </string>
+    <string name="total_budget_static">Current Budget: </string>
+    <string name="action_set_limit">Set Limit</string>
+    <string name="action_send_email">Share List</string>
+    <string name="action_clear_list">Clear List</string>
+    <string name="search">Search</string>
+    <string name="apiurl">https://dev.tescolabs.com/grocery/products/?query=</string>
+    <string name="apiurl_post_query">&amp;offset=0&amp;limit=500&amp;key=</string>
+    <string name="apiurl_subscription_key">ca58f691ff944fd59a27347a944d9254</string>
+    <string name="search_hint">Search items</string>
+</resources>
